@@ -1,0 +1,2 @@
+// Placeholder for future JS animations or Framer Motion
+console.log('MF Esports website loaded');
